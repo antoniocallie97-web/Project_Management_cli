@@ -1,0 +1,19 @@
+[
+    {
+        "username": "callie",
+        "projects": [
+            {
+                "name": "python",
+                "description": "cli",
+                "tasks": [
+                    {
+                        "title": "cli",
+                        "contributor": "mercy",
+                        "completed": true,
+                        "created_at": "2026-06-10 09:57:56"
+                    }
+                ]
+            }
+        ]
+    }
+]
